@@ -10,6 +10,7 @@ Oracle Cloud DevOps workshop content and links
   - We will be using key based authentication. Follow the setup instructions at     https://docs.cloud.oracle.com/iaas/Content/GSG/Tasks/creatingkeys.htm
 
 <b>2. Deploy Oracle Linux Developer Image</b>
+  - We will use cloud compute instance as a jump-box/bastion host so we are not required to setup tooling on participant laptops
   - https://blogs.oracle.com/linux/announcing-the-oracle-cloud-developer-image-for-oracle-cloud-infrastructure
 
 <b>3. Setup and update OCI CLI and tools</b>
