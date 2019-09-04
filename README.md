@@ -12,6 +12,7 @@ Oracle Cloud DevOps workshop content and links
 <b>2. Deploy Oracle Linux Developer Image</b>
   - We will use cloud compute instance as a jump-box/bastion host so we are not required to setup tooling on participant laptops
   - https://blogs.oracle.com/linux/announcing-the-oracle-cloud-developer-image-for-oracle-cloud-infrastructure
+  - Tutorial to create the same using Terraform with OCI Resource Manager: https://docs.cloud.oracle.com/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm
 
 <b>3. Setup and update OCI CLI and tools</b>
   - Run YUM update for tooling
