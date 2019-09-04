@@ -43,5 +43,5 @@ Oracle Cloud DevOps workshop content and links
 <b>6. CI/CD</b>
   - GitLab by example
   - Wercker by example
-  - GitOps and Cloud Native CI/CD with Jenkins-X excercise: https://github.com/ev-orcl/cloudnativeci/blob/master/README.md
+  - GitOps, Containers and Cloud Native CI/CD with Jenkins-X excercise: https://github.com/ev-orcl/cloudnativeci/blob/master/README.md
   
