@@ -5,7 +5,7 @@ Oracle Cloud DevOps workshop content and links
   - https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=_ref_coc-asset-opcHome
   - By entering email address system will recognise whitelisted users and guide you through the rest of the process. You should not be required to enter credit card information, or be required for SMS validation. Please let me know immediately if this is the case and we'll sort it out.
 
-<b>1. Setup pre-requisites</b>
+<b>1. Pre-requisites for connectivity and version control</b>
   - We will be using key based authentication. Follow the setup instructions at: https://docs.cloud.oracle.com/iaas/Content/GSG/Tasks/creatingkeys.htm
   - Each participant needs a Github account for which they can register freely at https://github.com/
   - Git workflow: https://www.atlassian.com/git/tutorials/comparing-workflows
