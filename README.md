@@ -32,4 +32,16 @@ Oracle Cloud DevOps workshop content and links
   - Recap excercise for creating a compute instance with Resource Manager: https://docs.cloud.oracle.com/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm
   
 <b>5. Ansible</b>
-  - 
+  - Ansible architecture: https://docs.ansible.com/ansible/latest/dev_guide/overview_architecture.html
+  - Ansible on OCI: https://oracle-cloud-infrastructure-ansible-modules.readthedocs.io/en/latest/index.html
+  - OCI Ansible modules and samples repository: https://github.com/oracle/oci-ansible-modules
+  - Getting started with Ansible on Oracle Cloud: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansiblegetstarted.htm
+  - Running ad hoc commands exercise: https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html
+  - Ansible Dynamic Inventories on OCI: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansibleinventoryscript.htm
+  - Ansible Playbooks sample excercises: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/ansiblesamples.htm
+  
+<b>6. CI/CD</b>
+  - GitLab by example
+  - Wercker by example
+  - GitOps and Cloud Native CI/CD with Jenkins-X excercise: https://github.com/ev-orcl/cloudnativeci/blob/master/README.md
+  
