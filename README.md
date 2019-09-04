@@ -1,4 +1,4 @@
-# devopsworkshop
+# IaC and DevOps Workshop
 Oracle Cloud DevOps workshop content and links
 
 <b>0. Register for Oracle Cloud Trial special promotion (500 $ / 30 days)</b>
@@ -18,3 +18,14 @@ Oracle Cloud DevOps workshop content and links
   - Run YUM update for tooling
   - Configure authentication https://docs.cloud.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm
   - Setup OCI CLI https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/cliinstall.htm
+  
+<b>4. Terraform</b>
+  - Terraform configuration language, structure and syntax: https://www.terraform.io/docs/configuration/index.html
+  - Introduction to Terraform on OCI: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/terraformgetstarted.htm
+  - Terraform Provider for OCI: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/terraformgetstarted.htm
+  - Documentation: https://www.terraform.io/docs/providers/oci/index.html
+  - Terraform examples for Oracle: https://github.com/oracle/terraform-examples
+  - Recap excercise for creating a compute instance with Resource Manager: https://docs.cloud.oracle.com/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm
+  
+<b>5. Ansible</b>
+  - 
