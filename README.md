@@ -14,4 +14,6 @@ Oracle Cloud DevOps workshop content and links
   - https://blogs.oracle.com/linux/announcing-the-oracle-cloud-developer-image-for-oracle-cloud-infrastructure
 
 <b>3. Setup and update OCI CLI and tools</b>
-  - https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/cliinstall.htm
+  - Run YUM update for tooling
+  - Configure authentication https://docs.cloud.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm
+  - Setup OCI CLI https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/cliinstall.htm
