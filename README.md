@@ -23,6 +23,7 @@ Oracle Cloud DevOps workshop content and links
   - Run YUM update for tooling https://access.redhat.com/documentation/en-us/red_hat_network_satellite/5.5/html/reference_guide/sect-reference_guide-package_updater-updating_packages_from_the_command_line_with_yum
   - Configure authentication https://docs.cloud.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm
   - Setup OCI CLI https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/cliinstall.htm
+  - Excercise: test CLI setup https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html#overview
   
 <b>4. Terraform</b>
   - Terraform configuration language, structure and syntax: https://www.terraform.io/docs/configuration/index.html
