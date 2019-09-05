@@ -4,6 +4,7 @@ Oracle Cloud DevOps workshop content and links
 <b>0. Register for Oracle Cloud Trial special promotion (500 $ / 30 days)</b>
   - https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=_ref_coc-asset-opcHome
   - By entering email address system will recognise whitelisted users and guide you through the rest of the process. You should not be required to enter credit card information, or be required for SMS validation. Please let me know immediately if this is the case and we'll sort it out.
+  - Once you have logged in, create a service user to be used in the excercises and assign it to the administrators group
 
 <b>1. Pre-requisites for connectivity and version control</b>
   - We will be using key based authentication. Follow the setup instructions at: https://docs.cloud.oracle.com/iaas/Content/GSG/Tasks/creatingkeys.htm
