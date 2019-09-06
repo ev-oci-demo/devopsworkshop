@@ -32,6 +32,7 @@ This playbook requires two additional files before we can run it. First, we need
 
 Nginx ships with a configuration file that works out of the box if you just want to serve static files. But you’ll almost always need to customize this, so we’ll overwrite the default configuration file with our own as part of this playbook. Put it in playbooks/files/nginx.conf.
 
+```
 server {
         listen 80 default_server;
         listen [::]:80 default_server ipv6only=on;
@@ -46,8 +47,11 @@ server {
         }
 }
 
+```
+
 Let’s add a custom home page. We’re going to use Ansible’s template functionality so that Ansible will generate the file from a template. Put the content in playbooks/templates/index.html.j2
 
+```
 <html>
   <head>
     <title>Welcome to ansible</title>
@@ -59,3 +63,4 @@ Let’s add a custom home page. We’re going to use Ansible’s template functi
   <p>Running on {{ inventory_hostname }}</p>
   </body>
 </html>
+```
