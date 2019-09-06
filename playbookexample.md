@@ -1,5 +1,6 @@
 <b>A very simple playbook</b>
-For our first example playbook, we’ll configure a host to run an Nginx web server.
+
+Configure a host to run an Nginx web server.
 
 - name: Configure webserver with nginx
   hosts: webservers
