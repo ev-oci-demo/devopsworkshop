@@ -2,6 +2,7 @@
 
 Configure a host to run an Nginx web server.
 
+```
 - name: Configure webserver with nginx
   hosts: webservers
   become: True
@@ -24,8 +25,10 @@ Configure a host to run an Nginx web server.
 
     - name: restart nginx
       service: name=nginx state=restarted
-      
- This playbook requires two additional files before we can run it. First, we need to define an Nginx configuration file.
+
+```
+
+This playbook requires two additional files before we can run it. First, we need to define an Nginx configuration file.
 
 Nginx ships with a configuration file that works out of the box if you just want to serve static files. But you’ll almost always need to customize this, so we’ll overwrite the default configuration file with our own as part of this playbook. Put it in playbooks/files/nginx.conf.
 
