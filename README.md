@@ -32,6 +32,7 @@ Oracle Cloud DevOps workshop content and links
   - Terraform Provider for OCI: https://docs.cloud.oracle.com/iaas/Content/API/SDKDocs/terraformgetstarted.htm
   - Documentation: https://www.terraform.io/docs/providers/oci/index.html
   - Terraform examples for Oracle: https://github.com/oracle/terraform-examples
+  - Excercise: simple example https://github.com/ev-orcl/terraform_ex
   - Recap excercise for creating a compute instance with Resource Manager: https://docs.cloud.oracle.com/iaas/Content/ResourceManager/Concepts/samplecomputeinstance.htm
   
 <b>5. Ansible</b>
